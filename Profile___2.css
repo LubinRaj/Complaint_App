@@ -1,0 +1,248 @@
+.mediaViewInfo {
+	--web-view-name: Profile – 2;
+	--web-view-id: Profile__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Profile__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Profile__2 {
+	position: absolute;
+	width: 414px;
+	height: 842px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Profile – 2;
+	--web-view-id: Profile__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	fill: rgba(104,134,197,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 898px;
+	left: -27px;
+	top: -15px;
+}
+#Educators {
+	left: 112px;
+	top: 255px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(124,45,69,1);
+	letter-spacing: -0.2333333396911621px;
+}
+#Rectangle {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(20,154,69,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 38px;
+	left: 180px;
+	top: 312px;
+}
+#Rectangle_w {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(20,154,69,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectangle_w {
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 38px;
+	left: 180px;
+	top: 379px;
+}
+#Rectangle_x {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(20,154,69,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectangle_x {
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 38px;
+	left: 180px;
+	top: 446px;
+}
+#Enter_Old_password_ {
+	opacity: 0.81;
+	left: 41px;
+	top: 321px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Enter_New_password_ {
+	opacity: 0.81;
+	left: 35px;
+	top: 388px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Re-Enter_password_ {
+	opacity: 0.81;
+	left: 46px;
+	top: 455px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#BTN {
+	position: absolute;
+	width: 185px;
+	height: 32px;
+	left: 127px;
+	top: 702px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile.html;
+	cursor: pointer;
+}
+#Rectangle_ {
+	fill: rgba(20,154,69,1);
+}
+.Rectangle_ {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+#Lets_Get_Started {
+	left: 63px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.2333333396911621px;
+}
+#BTN_ {
+	position: absolute;
+	width: 185px;
+	height: 32px;
+	left: 127px;
+	top: 763px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile.html;
+	cursor: pointer;
+}
+#Rectangle_ba {
+	fill: rgba(20,154,69,1);
+}
+.Rectangle_ba {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+#Lets_Get_Started_ {
+	left: 64px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Bahnschrift;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.2333333396911621px;
+}
+#Icon_material-track-changes {
+	fill: rgba(104,134,197,1);
+}
+.Icon_material-track-changes {
+	overflow: visible;
+	position: absolute;
+	width: 67px;
+	height: 68px;
+	left: 174px;
+	top: 120px;
+	transform: matrix(1,0,0,1,0,0);
+}
